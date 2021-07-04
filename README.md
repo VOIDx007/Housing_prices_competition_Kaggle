@@ -17,3 +17,4 @@ Though, the notebook contains comments for the steps taken in preprocessing to b
 11. Fit the data using the train set and Y, and predict the result using the test set.
 
 The submitted result yielded a MAE score of **16047.039**
+![Kaggle Score](https://user-images.githubusercontent.com/49501411/124383999-07bb3000-dced-11eb-9909-7b801a1bdaeb.png)
